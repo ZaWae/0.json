@@ -1,0 +1,13 @@
+{
+  "name": "KingCoin",
+  "symbol": "K$",
+  "uri": "https://scoutandbuy.com/logo.png",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "HVtvCUNWSN9K8VyaTdgCydBapgN5jC3JDcsqmFK8zGpAf",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
